@@ -17,3 +17,6 @@ texto.addEventListener("input", function() {
    }
 
 })
+
+
+// cambios!
